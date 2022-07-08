@@ -23,7 +23,7 @@ feature:
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Estadística
   - description: 
     icon: book
     icon_pack: fa
