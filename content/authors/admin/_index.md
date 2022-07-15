@@ -17,14 +17,14 @@ organizations:
 bio: Coordinadora de proyectos y asistente de investigación en el Centro de Estudios de Conflicto y Cohesión Social. 
 
 # Interests to show in About widget
-Interéses:
+interests:
   - R Stats.
   - Python.
   - Ciencia Política
   - Participación Política.
 
 # Education to show in About widget
-Educación:
+education:
   courses:
     - course: Magíster en Estadística
       institution: Pontificia Universidad Católica de Chile
