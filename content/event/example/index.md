@@ -32,3 +32,4 @@ url_code: 'https://rstudio.cloud/project/1309214'
 url_slides: 'https://github.com/rladieschile/taller-introductorio-mayo/blob/master/Buenas-Pr%C3%A1cticas-en-R.pdf'
 url_video: 'https://vimeo.com/423436467'
 
+---
