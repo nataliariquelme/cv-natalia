@@ -1,73 +1,34 @@
 ---
-title: Example Talk
+title: Aplicaciones prácticas con R
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Taller R Ladies Chile
+event_url: https://www.meetup.com/es-ES/rladies-concepcion/events/270822549/
 
-location: Wowchemy HQ
+location: Zoom
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  city: Concepción
+  country: Chile
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary:En esta cuarta y última sesión se revisaron aspectos del flujo de trabajo en R y RStudio, y se vieron algunos ejemplos para poner en práctica lo visto en sesiones anteriores.
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+abstract: Taller en el que se revisaron buenas prácticas que pueden ser de utilidad al comenzar a estudiar el lenguaje de programación R.
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
+authors: [Natalia Riquelme e Isidora Castillo]
+tags: [R Ladies, R Stats]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**R Ladies Chile**](https://github.com/rladieschile/taller-introductorio-mayo)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    name: Siguenos
+    url: https://twitter.com/RLadiesConce
+url_code: 'https://rstudio.cloud/project/1309214'
+url_slides: 'https://github.com/rladieschile/taller-introductorio-mayo/blob/master/Buenas-Pr%C3%A1cticas-en-R.pdf'
+url_video: 'https://vimeo.com/423436467'
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
----
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
