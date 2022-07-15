@@ -29,7 +29,7 @@ education:
     - course: Magíster en Estadística
       institution: Pontificia Universidad Católica de Chile
       year: 2022
-    - course: Administración Pública y Ciencia Política
+    - course: Ciencias Políticas y Administrativas
       institution: Universidad de Concepción.
       year: 2020
 
@@ -52,11 +52,11 @@ social:
     link: https://www.linkedin.com/in/natalia-riquelme-504147195/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/CV.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'nzriquelme@uc.cl'
@@ -67,4 +67,4 @@ highlight_name: true
 
 Coordinadora de proyectos en COES. Administradora Pública con mención en Ciencia Política y mención en Gestión Pública de la Universidad de Concepción. Estudiante de Magíster en Estadística de la Pontificia Universidad Católica de Chile. Mis temas de interés son conflictos socioambientales, participación política, cultura política y computación estadística.
 
-{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
