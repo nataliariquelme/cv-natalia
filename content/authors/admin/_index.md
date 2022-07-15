@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Natalia Riquelme
+title: Natalia Riquelme Sanhueza
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Coordinadora de Proyectos
+role: Coordinadora de Proyectos y Asistente de Investigación
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,14 +17,14 @@ organizations:
 bio: Coordinadora de proyectos y asistente de investigación en el Centro de Estudios de Conflicto y Cohesión Social. 
 
 # Interests to show in About widget
-interests:
+Interéses:
   - R Stats.
   - Python.
   - Ciencia Política
   - Participación Política.
 
 # Education to show in About widget
-education:
+Educación:
   courses:
     - course: Magíster en Estadística
       institution: Pontificia Universidad Católica de Chile
