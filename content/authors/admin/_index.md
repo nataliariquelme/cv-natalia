@@ -65,6 +65,6 @@ email: 'nzriquelme@uc.cl'
 highlight_name: true
 ---
 
-Coordinadora de proyectos en COES. Administradora Pública con mención en Ciencia Política y mención en Gestión Pública de la Universidad de Concepción. Estudiante de Magíster en Estadística de la Pontificia Universidad Católica de Chile. Mis temas de interés son conflictos socioambientales, participación política, cultura política y computación estadística.
+Coordinadora de proyectos en COES. Estudiante de Magíster en Estadística de la Pontificia Universidad Católica de Chile. **Coordinadora de proyectos y Asistente de Investigación en COES**. Mis temas de interés son conflictos socioambientales, participación política, cultura política y computación estadística.
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
