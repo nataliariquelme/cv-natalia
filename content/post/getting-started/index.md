@@ -1,5 +1,5 @@
 ---
-title: Python para el análisis de datos de Wes McKinney
+title: 1. Python para el análisis de datos de Wes McKinney - Preeliminares.
 subtitle: Proyecto de traducción voluntaria.
 
 # Summary for listings and search engines
@@ -29,7 +29,6 @@ image:
   preview_only: false
 
 authors:
-  - admin
   - Wes McKinney
 
 tags:
