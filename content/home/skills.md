@@ -23,11 +23,11 @@ feature:
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Estadística
+    name: Ciencia Abierta
   - description: 
     icon: book
     icon_pack: fa
-    name: Ciencia Política
+    name: Estadística
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

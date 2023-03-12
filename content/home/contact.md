@@ -28,8 +28,8 @@ content:
   email: nzriquelme@uc.cl
   phone: 9 34668437
   address:
-    street: Alcalde Jorge Monckeberg
-    city: Ñuñoa
+    street: Eyzaguirre 1140
+    city: Santiago
     region: Región Metropolitana de Santiago
     country: Chile
     country_code: CL

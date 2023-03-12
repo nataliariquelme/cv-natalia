@@ -20,8 +20,8 @@ bio: Coordinadora de proyectos y asistente de investigación en el Centro de Est
 interests:
   - R Stats.
   - Python.
-  - Ciencia Política
-  - Participación Política.
+  - Computación estadística
+  - Ciencia Abierta
 
 # Education to show in About widget
 education:
@@ -65,6 +65,7 @@ email: 'nzriquelme@uc.cl'
 highlight_name: true
 ---
 
-Coordinadora de proyectos en COES. Estudiante de Magíster en Estadística de la Pontificia Universidad Católica de Chile. **Coordinadora de proyectos y Asistente de Investigación en COES**. Mis temas de interés son conflictos socioambientales, participación política, cultura política y computación estadística.
+Estudio un máster en estadística. Me gusta la computación estadística, el modelado, la programación y la ciencia abierta. Soy coorganizadora de R Ladies Concepción, una iniciativa de diversidad para lograr una representación proporcional en la comunidad R animando, inspirando y empoderando a personas de géneros actualmente infrarrepresentados en cada rol y área de participación, ya sea como líderes, desarrolladores de paquetes, ponentes de conferencias, participantes en conferencias, educadores o usuarios.
+
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
