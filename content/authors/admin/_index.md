@@ -6,15 +6,15 @@ title: Natalia Riquelme Sanhueza
 superuser: true
 
 # Role/position/tagline
-role: Coordinadora de Proyectos y Asistente de Investigación
+role: Analista de datos y asistente de investigación
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Centro de Conflictos y Cohesión Social
-    url: https://coes.cl/
+  - name: Universidad Católica de Chile
+    url: https://www.uc.cl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coordinadora de proyectos y asistente de investigación en el Centro de Estudios de Conflicto y Cohesión Social. 
+bio: Estudiante de Magíster en Estadística en la Universidad Católica (Chile). Analista de datos y asistente de investigación. Me gusta la computación estadística, modelación, programación y OS. 
 
 # Interests to show in About widget
 interests:
