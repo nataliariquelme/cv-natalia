@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
  - title: Analista de datos
     company: Cienciambiental Consultores
     company_url: 'https://cienciambiental.cl/'
@@ -55,10 +56,9 @@ experience:
     company_url: 'https://coes.cl/'
     location: Santiago de Chile
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2022-09-01'
     description: |2-
         Responsabilidades:
-        
         * Coordinación del proyecto FONDAP COES 15130009
         * Apoyo a las 4 líneas de investigación del centro
         * Redacción y edición de informes
