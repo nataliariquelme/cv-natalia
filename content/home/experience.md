@@ -22,8 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
- - title: Analista de datos
+  - title: Analista de datos
     company: Cienciambiental Consultores
     company_url: 'https://cienciambiental.cl/'
     location: Santiago de Chile
@@ -31,14 +30,14 @@ experience:
     date_end: ''
     description: |2-
         Responsabilidades:
-        * Elaborar informes, insumos parciales y tareas específicas asociadas a proyectos en ejecución como bases de datos, información espacial, revisiones bibliográficas
+        * Elaborar informes, insumos parciales y tareas específicas asociadas a proyectos en ejecución como bases de datos,            información espacial, revisiones bibliográficas
         * Toma y análisis de datos
         * Diseñar, programar y ejecutar análisis de ciencia de datos
         * Análisis y visualización de datos
         * Apoyo en implementación del sistema de gestión de datos
         * Diseñar e implementar protocolos técnicos y estándares de seguridad internos o solicitados por las empresas mandantes
 
- - title: Asistente de Investigación
+  - title: Asistente de Investigación
     company: Observatorio de Violencia y Legitimidad Social
     company_url: 'http://oles.cl/'
     location: Santiago de Chile
